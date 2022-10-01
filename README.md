@@ -34,6 +34,7 @@ A curated collection of machine learning engineering blogs. _If you want to cont
 - [PayPal](https://medium.com/paypal-tech/tagged/machine-learning)
 - [Pinterest](https://medium.com/pinterest-engineering/tagged/machine-learning)
 - [Quora](https://quoraengineering.quora.com/)
+- [Reddit](https://www.reddit.com/r/RedditEng/)
 - [Sharechat](https://sharechat.com/blogs/data-science)
 - [Snap](https://eng.snap.com/blog)
 - [Spotify](https://engineering.atspotify.com/category/maching-learning/)

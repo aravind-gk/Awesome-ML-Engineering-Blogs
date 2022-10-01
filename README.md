@@ -24,6 +24,7 @@ A curated collection of machine learning engineering blogs. _If you want to cont
 - [IBM Research](https://www.ibm.com/blogs/research/tag/machine-learning/)
 - [Indeed](https://engineering.indeedblog.com/blog/)
 - [Instagram](https://instagram-engineering.com/tagged/machine-learning)
+- [Intuit](https://quickbooks-engineering.intuit.com/tagged/machine-learning)
 - [LinkedIn](https://engineering.linkedin.com/blog/topic/machine-learning)
 - [Lyft](https://eng.lyft.com/tagged/data-science)
 - [Microsoft](https://medium.com/data-science-at-microsoft)

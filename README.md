@@ -15,6 +15,7 @@ A curated collection of machine learning engineering blogs. _If you want to cont
 - [Doordash](https://doordash.engineering/category/data-science-and-machine-learning/)
 - [Dropbox](https://dropbox.tech/machine-learning)
 - [Ebay](https://tech.ebayinc.com/)
+- [Etsy](https://www.etsy.com/codeascraft)
 - [Facebook](https://engineering.fb.com/category/ml-applications/)
 - [Facebook Research](https://ai.facebook.com/)
 - [Flipkart](https://blog.flipkart.tech/tagged/machine-learning)

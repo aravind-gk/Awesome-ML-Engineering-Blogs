@@ -40,6 +40,7 @@ A curated collection of machine learning engineering blogs. _If you want to cont
 - [Sharechat](https://sharechat.com/blogs/data-science)
 - [Snap](https://eng.snap.com/blog)
 - [Spotify](https://engineering.atspotify.com/category/maching-learning/)
+- [StackOverflow](https://stackoverflow.blog/tag/machine-learning/)
 - [Stitchfix](https://multithreaded.stitchfix.com/algorithms/blog/)
 - [Swiggy](https://bytes.swiggy.com/tagged/swiggy-data-science)
 - [Twitch](https://blog.twitch.tv/en/en/tags/engineering/)

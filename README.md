@@ -38,6 +38,7 @@ A curated collection of machine learning engineering blogs. _If you want to cont
 - [Quora](https://quoraengineering.quora.com/)
 - [Reddit](https://www.reddit.com/r/RedditEng/)
 - [Sharechat](https://sharechat.com/blogs/data-science)
+- [Shopify](https://shopify.engineering/topics/data-science-engineering)
 - [Snap](https://eng.snap.com/blog)
 - [Spotify](https://engineering.atspotify.com/category/maching-learning/)
 - [StackOverflow](https://stackoverflow.blog/tag/machine-learning/)
@@ -47,4 +48,5 @@ A curated collection of machine learning engineering blogs. _If you want to cont
 - [Twitter](https://blog.twitter.com/engineering/en_us)
 - [Uber](https://eng.uber.com/category/articles/ai/)
 - [Walmart](https://medium.com/walmartglobaltech/tagged/data-science)
+- [Yelp](https://engineeringblog.yelp.com/)
 - [Zomato](https://www.zomato.com/blog/category/technology)

@@ -28,7 +28,6 @@ A curated collection of machine learning engineering blogs. _If you want to cont
 - [Intuit](https://quickbooks-engineering.intuit.com/tagged/machine-learning)
 - [LinkedIn](https://engineering.linkedin.com/blog/topic/machine-learning)
 - [Lyft](https://eng.lyft.com/tagged/data-science)
-- [Machine Learning Mastery](https://machinelearningmastery.com/blog/)
 - [Microsoft](https://medium.com/data-science-at-microsoft)
 - [Microsoft Research](https://www.microsoft.com/en-us/research/blog/)
 - [Netflix](https://netflixtechblog.com/tagged/machine-learning)
@@ -50,4 +49,5 @@ A curated collection of machine learning engineering blogs. _If you want to cont
 - [Uber](https://eng.uber.com/category/articles/ai/)
 - [Walmart](https://medium.com/walmartglobaltech/tagged/data-science)
 - [Yelp](https://engineeringblog.yelp.com/)
+- [Zalando](https://engineering.zalando.com/tags/machine-learning.html)
 - [Zomato](https://www.zomato.com/blog/category/technology)

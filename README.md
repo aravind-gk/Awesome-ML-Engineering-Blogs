@@ -49,4 +49,5 @@ A curated collection of machine learning engineering blogs. _If you want to cont
 - [Uber](https://eng.uber.com/category/articles/ai/)
 - [Walmart](https://medium.com/walmartglobaltech/tagged/data-science)
 - [Yelp](https://engineeringblog.yelp.com/)
+- [Zalando](https://engineering.zalando.com/tags/machine-learning.html)
 - [Zomato](https://www.zomato.com/blog/category/technology)

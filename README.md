@@ -8,6 +8,7 @@ A curated collection of machine learning engineering blogs. _If you want to cont
 - [Airbnb](https://medium.com/airbnb-engineering/ai/home)
 - [Alibaba](https://alibabatech.medium.com/)
 - [Amazon Science](https://www.amazon.science/blog)
+- [Amazon Prime Video](https://www.primevideotech.com/)
 - [BBC](https://medium.com/bbc-design-engineering/tagged/machine-learning)
 - [Booking.com](https://blog.booking.com/#datascience)
 - [Deepmind](https://www.deepmind.com/blog)
